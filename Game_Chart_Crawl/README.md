@@ -27,7 +27,7 @@ Project is created with:
 Finished:
 * Finding the game from Google Play Game Top Chart. 
 * Getting the info of Word games from Apple App Store chart.
-* Storing the game name, company name, latest update time and contents in two file called "Apple_Top_Game_Chart.txt" and "Google_Play_Game_Chart.txt"
+* Storing the game name, company name, latest update time and contents in two file called "Apple_Top_Game_Chart.txt" and "Google_Top_Game_Chart.txt"
 
 In Progress:
 * Get the info of pop-up window
