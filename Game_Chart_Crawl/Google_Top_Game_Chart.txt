@@ -12,3 +12,4 @@ Game:		Word Stacks
 Company:	PeopleFun
 Update Content:	Bug fixes
 Update Time:	March 6, 2019
+ 
