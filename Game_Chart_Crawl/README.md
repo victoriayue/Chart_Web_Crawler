@@ -34,7 +34,7 @@ Finished:
 * Output should be in two file called "Apple_Top_Game_Chart.txt" and "Google_Play_Game_Chart.txt"
 
 In Progress:
-* Crawl dynamic page in two Charts.
 * Get the info of pop-up window
 * Get the games of Google Play Chart over 60 rank. It need the dynamic page Crawling skill. 
 * Auto-refresh
+* The executable may not work. 
