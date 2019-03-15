@@ -1,0 +1,14 @@
+ 4.  Words Story - Addictive Word Game 
+Game:		Words Story - Addictive Word Game
+Company:	Great Puzzle Games
+Update Time:	February 28, 2019
+ 11.  Wordscapes 
+Game:		Wordscapes
+Company:	PeopleFun
+Update Content:	Bug fixes
+Update Time:	January 22, 2019
+ 46.  Word Stacks 
+Game:		Word Stacks
+Company:	PeopleFun
+Update Content:	Bug fixes
+Update Time:	March 6, 2019
