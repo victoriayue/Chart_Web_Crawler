@@ -1,15 +1,250 @@
- 4.  Words Story - Addictive Word Game 
-Game:		Words Story - Addictive Word Game
-Company:	Great Puzzle Games
-Update Time:	February 28, 2019
- 11.  Wordscapes 
+1 Action Game
+Game:		Johnny Trigger
+Company:	SayGames
+Update Time:	December 23, 2019
+
+2 Casual Game
+Game:		Forge Ahead
+Company:	Lion Studios
+Update Time:	December 20, 2019
+
+3 Adventure Game
+Game:		Roblox
+Company:	Roblox Corporation
+Update Time:	December 18, 2019
+
+4 Casual Game
+Game:		Ink Inc. - Tattoo Drawing
+Company:	Lion Studios
+Update Time:	December 17, 2019
+
+5 Action Game
+Game:		Call of Duty®: Mobile
+Company:	Activision Publishing, Inc.
+Update Time:	November 23, 2019
+
+6 Educational Game
+Game:		Brain Out – Can you pass it?
+Company:	Focus apps
+Update Time:	December 27, 2019
+
+7 Arcade Game
+Game:		Subway Surfers
+Company:	Kiloo
+Update Time:	November 20, 2019
+
+8 Music Game
+Game:		Tiles Hop: EDM Rush!
+Company:	AMANOTES
+Update Time:	December 25, 2019
+
+9 Music Game
+Game:		Magic Tiles 3
+Company:	AMANOTES
+Update Time:	December 27, 2019
+
+10 Puzzle Game
+Game:		Sand Balls
+Company:	SayGames
+Update Time:	December 26, 2019
+
+11 Arcade Game
+Game:		Sky Roller
+Company:	Homa Games
+Update Time:	November 29, 2019
+
+12 Action Game
+Game:		aquapark.io
+Company:	VOODOO
+Update Time:	November 28, 2019
+
+13 Puzzle Game
+Game:		Stencil Art - Spray Masters
+Company:	Lion Studios
+Update Time:	December 12, 2019
+
+14 Racing Game
+Game:		Fun Race 3D
+Company:	Good Job Games
+Update Time:	December 26, 2019
+
+15 Arcade Game
+Game:		Paper.io 2
+Company:	VOODOO
+Update Time:	September 26, 2019
+
+16 Action Game
+Game:		Hunter Assassin
+Company:	Ruby Game Studio
+Update Time:	December 22, 2019
+
+17 Action Game
+Game:		Sniper 3D Gun Shooter: Free Elite Shooting Games
+Company:	Fun Games For Free
+Update Time:	December 18, 2019
+
+18 Simulation Game
+Game:		Icing On The Cake
+Company:	Lion Studios
+Update Time:	December 5, 2019
+
+19 Puzzle Game
+Game:		Rescue Cut - Rope Puzzle
+Company:	F.I.L Games
+Update Time:	December 13, 2019
+
+20 Racing Game
+Game:		Turbo Stars
+Company:	SayGames
+Update Time:	December 22, 2019
+
+21 Puzzle Game
+Game:		Color Fill 3D
+Company:	Good Job Games
+Update Time:	December 18, 2019
+
+22 Simulation Game
+Game:		BitLife - Life Simulator
+Company:	Candywriter, LLC
+Update Time:	December 20, 2019
+
+23 Action Game
+Game:		Traffic Run!
+Company:	Geisha Tokyo, Inc.
+Update Time:	July 12, 2019
+
+24 Casual Game
+Game:		Dice Royale - Get Rewards Every Day
+Company:	Serious Fun Studio
+Update Time:	December 25, 2019
+
+25 Casual Game
+Game:		Bottle Flip 3D
+Company:	tastypill
+Update Time:	December 6, 2019
+
+26 Sports Game
+Game:		Run Race 3D
+Company:	Good Job Games
+Update Time:	December 24, 2019
+
+27 Casual Game
+Game:		Gardenscapes
+Company:	Playrix
+Update Time:	December 26, 2019
+
+28 Casual Game
+Game:		Pokey Ball
+Company:	VOODOO
+Update Time:	December 23, 2019
+
+29 Action Game
+Game:		Kick the Buddy
+Company:	Playgendary
+Update Time:	August 1, 2019
+
+30 Casual Game
+Game:		Candy Crush Saga
+Company:	King
+Update Time:	December 19, 2019
+
+31 Action Game
+Game:		Mario Kart Tour
+Company:	Nintendo Co., Ltd.
+Update Time:	December 11, 2019
+
+32 Puzzle Game
+Game:		Mr Bullet - Spy Puzzles
+Company:	Lion Studios
+Update Time:	December 18, 2019
+
+33 Arcade Game
+Game:		Stack Ball - Blast through platforms
+Company:	CASUAL AZUR GAMES
+Update Time:	December 10, 2019
+
+34 Music Game
+Game:		Beat Roller
+Company:	AMANOTES
+Update Time:	December 23, 2019
+
+35 Casual Game
+Game:		My Talking Tom 2
+Company:	Outfit7 Limited
+Update Time:	December 16, 2019
+
+36 Puzzle Game
+Game:		Dig This!
+Company:	Raketspel
+Update Time:	December 16, 2019
+
+37 Sports Game
+Game:		8 Ball Pool
+Company:	Miniclip.com
+Update Time:	December 6, 2019
+
+38 Casual Game
+Game:		Homescapes
+Company:	Playrix
+Update Time:	December 5, 2019
+
+39 Adventure Game
+Game:		Jumanji: Epic Run
+Company:	Crazy Labs by TabTale
+Update Time:	December 4, 2019
+
+40 Arcade Game
+Game:		Hole.io
+Company:	VOODOO
+Update Time:	November 25, 2019
+
+41 Simulation Game
+Game:		Perfect Slices
+Company:	SayGames
+Update Time:	December 21, 2019
+
+42 Puzzle Game
+Game:		Bubble Sort Color Puzzle Game
+Company:	TapNation
+Update Time:	December 26, 2019
+
+43 Puzzle Game
+Game:		Sandwich!
+Company:	Popcore Games
+Update Time:	December 20, 2019
+
+44 Trivia Game
+Game:		Brain Test: Tricky Puzzles
+Company:	Unico Studio
+Update Time:	December 27, 2019
+
+45 Casual Game
+Game:		Gacha Life
+Company:	Lunime
+Update Time:	September 28, 2019
+
+46 Sports Game
+Game:		Archery Go- Archery games, Archery
+Company:	X Games Tube
+Update Time:	September 30, 2019
+
+47 Arcade Game
+Game:		Crowd City
+Company:	VOODOO
+Update Time:	November 19, 2019
+
+48 Word Game
 Game:		Wordscapes
 Company:	PeopleFun
-Update Content:	Bug fixes
-Update Time:	January 22, 2019
- 46.  Word Stacks 
-Game:		Word Stacks
-Company:	PeopleFun
-Update Content:	Bug fixes
-Update Time:	March 6, 2019
- 
+Update Time:	December 13, 2019
+
+49 Casino Game
+Game:		Lucky Day - Win Real Money
+Company:	Lucky Day Entertainment, Inc.
+Update Time:	December 27, 2019
+
+50 Arcade Game
+Game:		Granny: Chapter Two
+Company:	DVloper
+Update Time:	October 31, 2019
+
